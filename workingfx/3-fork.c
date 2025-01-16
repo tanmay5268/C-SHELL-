@@ -27,8 +27,5 @@ int main() {
         {
             printf("this is parent's pid:%u\n",my_pid);
         }
-
-  
-   
-   return 0;
+        return 0;
 }
