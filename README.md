@@ -76,9 +76,7 @@ Contributions are welcome! To contribute:
    git push origin feature-name
    ```
 5. Open a pull request.
-
 6. Review and merge the pull request.
-
 ## Acknowledgments
 
 - Inspired by the Linux shell environment
