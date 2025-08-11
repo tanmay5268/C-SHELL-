@@ -2,8 +2,8 @@
 #include <stdlib.h>
 #include <unistd.h>
 int main() {
-    pid_t pid;
-    pid_t my_pid;
+    __pid_t pid;
+    __pid_t my_pid;
     my_pid=getpid();
     printf("parent's id %u\n",my_pid);
     printf("before fork\n");

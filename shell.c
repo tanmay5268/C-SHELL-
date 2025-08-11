@@ -65,7 +65,7 @@ else
 void builtin_exit(void)
 {
     printf("exiting shell . . . .\n");
-    sleep(2);
+    sleep(1);
     exit (0);
 }
 int main(void){
